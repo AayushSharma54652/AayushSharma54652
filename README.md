@@ -6,7 +6,7 @@
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning **Next.js , Cloud DevOps &  Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AayushSharma54652](https://github.com/AayushSharma54652)
+- 👨‍💻  All of my projects are available at [https://github.com/AayushSharma54652](https://github.com/AayushSharma54652)
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **DevOps & Web Development**
 
