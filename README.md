@@ -10,7 +10,7 @@
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **DevOps & Web Development**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; **aayushsharma54652@gmail.com**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Reach me: **aayushsharma54652@gmail.com**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; Resume: [drive.google.com/file](https://drive.google.com/file/d/1CCDyGbdKJNI110IewH6g8PiPB0Zb7gP_/view?usp=drive_link)
 
