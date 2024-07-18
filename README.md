@@ -4,15 +4,15 @@
 # 💫 About Me
 <img align="right" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450">
 
-- 🌱 I’m currently learning **Next.js & Cloud DevOps**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning **Next.js , Cloud DevOps &  Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AayushSharma54652](https://github.com/AayushSharma54652)
 
-- 💬 Ask me about **DevOps & Web Development**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **DevOps & Web Development**
 
-- 📫 Reach me: **aayushsharma54652@gmail.com**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; **aayushsharma54652@gmail.com**
 
-- 📄 Resume: [drive.google.com/file](https://drive.google.com/file/d/1CCDyGbdKJNI110IewH6g8PiPB0Zb7gP_/view?usp=drive_link)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; Resume: [drive.google.com/file](https://drive.google.com/file/d/1CCDyGbdKJNI110IewH6g8PiPB0Zb7gP_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
