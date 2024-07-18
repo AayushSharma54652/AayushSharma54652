@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there, I'm <a href="https://aayush61000portfolio.netlify.app/" target="_blank">Aayush Sharma</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <h3 align="center">A passionate DevOps Engineer and Full Stack Web Developer from India</h3>
-💫 **About Me:**
+# 💫 About Me
 <img align="right" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450">
 
 - 🌱 I’m currently learning **Next.js & Cloud DevOps**
