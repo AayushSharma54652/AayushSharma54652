@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
 <h3 align="center">A passionate DevOps Engineer and Full Stack Web Developer from India</h3>
 # 💫 About Me:
-<img align="right" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400">
 
 - 🌱 I’m currently learning **Next.js & Cloud DevOps**
 
