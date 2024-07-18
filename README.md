@@ -11,7 +11,7 @@
 
 - 📫 Reach me: **aayushsharma54652@gmail.com**
 
-- 📄 Resume: [drive.google.com/file](https://drive.google.com/drive/folders/1AXT3BxA9lZVO2zajo9GSKU8xW2onWOFg)
+- 📄 Resume: [drive.google.com/file](https://drive.google.com/file/d/1CCDyGbdKJNI110IewH6g8PiPB0Zb7gP_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
